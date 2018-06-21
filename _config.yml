@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mike McCracken, PhD
+name: McCracken Blog
 
 # Short bio or description (displayed in the header)
 description: Assocaite Prof. of Physics, W&J College
@@ -22,8 +22,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: mmccracken0137
+  instagram: m_mccrackles
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
